@@ -11,7 +11,6 @@ README.md
 - HTML / CSS 🌐  
 - JavaScript ⚙️ *(si aplica)*  
 - Git & GitHub 🛠️  
-- [Puedes añadir más aquí]
 
 ### 🏷️ Badges (Ejemplos con Shields.io)
 
@@ -25,16 +24,14 @@ README.md
 
 ## 📂 Proyectos Destacados
 
-- **Proyecto 1**: Descripción breve del proyecto. [🔗 Enlace al repositorio]  
-- **Proyecto 2**: Descripción breve del proyecto. [🔗 Enlace al repositorio]  
+- **Proyecto 1**:
+- **Proyecto 2**:  
 
 *Puedes incluir imágenes o gifs de tus proyectos aquí.*
 
 ## 📬 Contacto y Redes Sociales
 
-- 📧 Email: tu_correo@example.com  
-- 🌐 [LinkedIn](https://linkedin.com/in/tu_usuario) *(si tienes)*  
-- 🐦 [Twitter](https://twitter.com/tu_usuario) *(opcional)*
+- 📧 Email: matilizanoq@gmail.com  
 
 ## 🎨 Un Toque Creativo
 
